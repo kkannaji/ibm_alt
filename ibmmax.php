@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: IBM Max Image Auto Alt Capture
-Plugin URI: https://github.com/kkannaji/kkannaji
+Plugin URI: https://github.com/kkannaji/
 Description: IBM Max Image Auto Alt Capture
 Version: 5.7.2
 Author: Chaitanya
-Author URI: https://github.com/kkannaji/kkannaji
+Author URI: https://github.com/kkannaji/
 License: GPLv2 or later
  
 */
